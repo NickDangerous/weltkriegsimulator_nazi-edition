@@ -221,7 +221,7 @@ function handleKeyDown( aEvent ) {
                 InputController.right();
                 break;
 
-            case 90: // Z
+            case 89: // Üppsilon! Nur Undeutsche würden an dieser Stelle ein Z gebrauchrn-
                 if ( !player.switching ) {
                     player.switchLayer();
                 }
